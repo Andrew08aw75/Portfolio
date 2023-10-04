@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:  The website is currently undergoing renovation. Thank you for your patience! ![SpaceX](spacex.png)
-
+description:  The website is currently undergoing renovation. Thank you for your patience!
+<img src="spacex.png" alt="SpaceX">
 ---
