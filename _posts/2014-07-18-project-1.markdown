@@ -7,8 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: The website is currently undergoing renovation. Thank you for your patience! <!--  
+description: The website is currently undergoing renovation. Thank you for your patience! Holi <!--  
   </div> <img src="img/portfolio/spacex.png" alt="SpaceX Image" width="50%"> 
-  <p> Otro texto.</p> -->
+  <p> Otro texto.</p> -->jjj
 ---
 
